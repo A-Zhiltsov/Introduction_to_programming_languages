@@ -1,0 +1,5 @@
+C:\Users\79991\Desktop\Разраб\Знакомство с языками семинары\lesson_2\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79991\Desktop\Разраб\Знакомство с языками семинары\lesson_2\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\79991\Desktop\Разраб\Знакомство с языками семинары\lesson_2\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+C:\Users\79991\Desktop\Разраб\Знакомство с языками семинары\lesson_2\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\79991\Desktop\Разраб\Знакомство с языками семинары\lesson_2\HomeWork\obj\Debug\net8.0\HomeWork.sourcelink.json
